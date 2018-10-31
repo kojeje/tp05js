@@ -12,12 +12,12 @@
                 <input name="password" type="password">
             </div>
             <div>
-                <label for="firstname">Prénom</label>
-                <input name="firstname" type="text">
+                <label for="first_name">Prénom</label>
+                <input name="first_name" type="text">
             </div>
             <div>
-                <label for="lastname">Nom</label>
-                <input name="lastname" type="text">
+                <label for="last_name">Nom</label>
+                <input name="last_name" type="text">
             </div>
 
             <input type="submit" value="Inscription" />
